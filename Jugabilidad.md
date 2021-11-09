@@ -43,3 +43,6 @@
 #### Los personajes de mi juego son los dos sprite que escogi en scratch que son 2 patos
 
 <img    src="scratch.png" />
+title=" Colegio San Ignacio"
+width="20%" />
+height="20%" />
