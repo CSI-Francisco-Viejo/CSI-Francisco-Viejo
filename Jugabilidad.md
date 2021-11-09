@@ -42,4 +42,4 @@
 #### Los personajes son personas o objetos ficticios que son controlado por nosotros en el videojuego
 #### Los personajes de mi juego son los dos sprite que escogi en scratch que son 2 patos
 
-<img    src="
+<img    src="scratch.png" />
