@@ -10,9 +10,13 @@
         
 <b>  </b>
 <ul>
-  <li>  </li>
-  <li>  </li>
-  <li>  </li>
+  <li> Flour </li>
+  <li> Eggs </li>
+  <li> Butter </li>
+  <li> Sugar </li>
+  <li> Salt </li>
+  <li> Milk </li>
+  <li> Baking Soda </li>
 </ul>
 
 
@@ -24,5 +28,13 @@
   <li> Preheat the oven </li>
   <li> Stir together dry ingredients </li>
   <li> Combien the butter and sugar </li>
-  <li> Add eggs one at a time <
+  <li> Add eggs one at a time </li>
+  <li> Alternate adding dry and wet ingredients </li>
+  <li> Pour batter into pans and bake </li>
+  <li> Check cake for doneness </li>
+  <li> Cool the cake </li> 
+  <li> Assemble the cake </li>
+  <li> Add the frosting </li>
+  <li> Decorate </li> 
+        
 </ol>
