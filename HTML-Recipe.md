@@ -35,6 +35,11 @@
              width="20%"
              height="20%" />
   <li> Salt </li>
+        <img 
+             src="https://cdn-prod.medicalnewstoday.com/content/images/articles/322/322745/salt-shaker.jpg"
+             title="salt"
+             width="20%"
+             height="20%"
   <li> Milk </li>
   <li> Baking Soda </li>
 </ul>
