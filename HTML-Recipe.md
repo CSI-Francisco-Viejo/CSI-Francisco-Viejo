@@ -23,6 +23,11 @@
              width="20%"
              height="20%" />
   <li> Butter </li>
+        <img 
+            src="https://media.npr.org/assets/img/2017/02/23/butter1_wide-b23d6a7af9100ca3d155a4bd7a2f90e2ae3d1bfe.jpg?s=1400"
+             title="butter"
+             width="20%"
+             height="20%" />
   <li> Sugar </li>
   <li> Salt </li>
   <li> Milk </li>
