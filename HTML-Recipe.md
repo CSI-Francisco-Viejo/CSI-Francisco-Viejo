@@ -11,6 +11,10 @@
 <b>  </b>
 <ul>
   <li> Flour </li>
+        src="https://medinabaking.com/wp-content/uploads/2020/01/Flour.jpg"
+        title="flour"
+        width="20%"
+        height="20%"
   <li> Eggs </li>
   <li> Butter </li>
   <li> Sugar </li>
