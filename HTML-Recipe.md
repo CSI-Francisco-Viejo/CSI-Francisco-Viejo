@@ -17,6 +17,11 @@
         width="20%"
         height="20%" />
   <li> Eggs </li>
+        <img
+             src="https://cdn-prod.medicalnewstoday.com/content/images/articles/283/283659/a-basket-of-eggs.jpg"
+             title="eggs"
+             width="20%"
+             height="20%"
   <li> Butter </li>
   <li> Sugar </li>
   <li> Salt </li>
