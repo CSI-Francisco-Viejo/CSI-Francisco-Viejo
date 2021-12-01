@@ -1,7 +1,7 @@
 <h1> HTLM Webpage Recipe </h1>
 <h2> Chritmas Recipe: </h2>
 
-<img   src=""
+<img   src="https://www.onceuponachef.com/images/2012/11/Vanilla-Birthday-Cake-18.jpg"
         title="Cake"
         width="20%"
         height="20%" />
