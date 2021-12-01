@@ -33,10 +33,10 @@
              src="https://www.google.com/search?q=sugar&rlz=1C1JZAP_enPR912PR913&source=lnms&tbm=isch&sa=X&ved=2ahUKEwig_pmJksP0AhVJQTABHcvSBOoQ_AUoAXoECAEQAw&biw=1396&bih="
              title="sugar"
              width="20%"
-             height="20%"
-            <li> Salt </li>
-            <li> Milk </li>
-            <li> Baking Soda </li>
+             height="20%" />
+  <li> Salt </li>
+  <li> Milk </li>
+  <li> Baking Soda </li>
 </ul>
 
 
