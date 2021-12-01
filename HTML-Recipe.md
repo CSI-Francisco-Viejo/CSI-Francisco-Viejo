@@ -1,5 +1,5 @@
 <h1> HTLM Webpage Recipe </h1>
-<h2> Chritmas Recipe:Cake </h2>
+<h2> Chritmas Recipe: Cake </h2>
 
 <img   src="https://www.onceuponachef.com/images/2012/11/Vanilla-Birthday-Cake-18.jpg"
         title="Cake"
@@ -47,6 +47,11 @@
              width="20%"
              height="20%" />
   <li> Baking Soda </li>
+        <img
+             src=
+             title="baking soda"
+             width="20%"
+             height="20%" />
 </ul>
 
 
