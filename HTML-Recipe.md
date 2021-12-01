@@ -47,7 +47,7 @@
              width="20%"
              height="20%" />
   <li> Baking Soda </li>
-        <img
+        <imghttps://i0.wp.com/post.healthline.com/wp-content/uploads/2019/11/milk-soy-hemp-almond-non-dairy-1296x728-header-1296x728.jpg?w=1155&h=1528
              src=
              title="baking soda"
              width="20%"
