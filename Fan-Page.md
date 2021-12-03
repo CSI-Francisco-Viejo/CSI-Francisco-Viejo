@@ -8,10 +8,15 @@
             />
 </div>
 
-<h2 align="center" > Acting, streaming, sports or other personality Fan Page!</h2>
+<h2 align="center" > Basketball Player Fan Page!</h2>
 
 <br>
-
+<div align="center">
+    <img   src="https://c8.alamy.com/compes/pxpxy6/los-angeles-estreno-de-smallfoot-llegadas-con-lebron-james-donde-la-familia-los-angeles-california-estados-unidos-cuando-22-de-septiembre-de-2018-credito-apega-wenn-com-pxpxy6.jpg"
+            title="Pestily"
+            width="25%"
+            height="25%" />
+         
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
     Lebron James is a basketball pleayer he plays for the Los Angeles Lakers. He has 3 sons two boys one girl, the names are: Bronny James (older brother), Bryce James (medium brother), Zhuri James s(maller sister) and his wife named Savannah James.
 </p>
@@ -22,8 +27,10 @@
     <img    src="https://www.dexerto.com/wp-content/uploads/2020/03/pestily-talks-fast-levelling-escape-from-tarkov-flea-market.png"
             title="Pestily"
             width="50%"
-            height="50%" 
-            />
+            height="50%" />
+            
+    <p style="text-indent: 2cm, font-family: Comic Sans MS; font-size:110%">
+        Lebron james 
 </div>
 
 <br>
