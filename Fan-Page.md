@@ -19,7 +19,7 @@
             height="25%" />
          </div>
          
-<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+<p style = "text-indent: 2cm; font-family:Brush Script MT; font-size:110%">
     Lebron James is a basketball player he plays for the Los Angeles Lakers. He has 3 sons two boys one girl, the names are: Bronny James (older brother), Bryce James (medium brother), Zhuri James s(maller sister) and his wife named Savannah James.
 </p>
 
@@ -31,7 +31,7 @@
             width="50%"
             height="50%" />
           </div>  
-    <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+    <p style = "text-indent: 2cm; font-family: BrushScript MT; font-size:110%">
         Lebron james was drafted in 2003 by the Cleaveland Cavaliers there he played from 2003-2010 then he moved to the Miami Heat, in Miami he played frorm 2010-2014. After he played in Miami came back to Cleveland in 2004 and left to the Los Angeles Lakers in 2018. Lebron right now is playing for Los Angeles.
     </p>       
 
@@ -43,7 +43,7 @@
          width="50%"
          height="50%" />
     </div>
-  <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+  <p style ="text-indent: 2cm; font-family:Brush Script MT; font-size:110%"> 
       Lebron James has won 4 championships 1 with the lakers , 1 with Cleaveland and 2 with Miami. In the championship with the lakers he faced the Miami Heat and won the series 4-2. In Miami he won a championship two time the first was versus Oklahoma City Thunders and the series ended 4-1 then in 2013 faced the San Antonio Spurs and won 4-3. While in cleveland he won 1 championship where he faced the Golden State Warriors and won 4-3.
     </p>
     
